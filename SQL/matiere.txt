@@ -1,0 +1,9 @@
+Matières : 
+
+- Vocabulaire
+- Définition d'une table
+- Utiliser phpMyAdmin
+  - Apprentissage de SQL et du langage
+  - DDL => UI
+  - DRL => Script SQL
+  - DML => UI + Script
